@@ -1,3 +1,5 @@
+SUPER STORE SALES 
+
 🌍 Regional Sales Analysis Dashboard
 This Power BI dashboard visualizes and compares Sales, Profit, and Quantity Sold across four U.S. regions: Central, South, West, and East. It includes breakdowns by Category, Subcategory, Segment, Payment Mode, and Shipping Method.
 
